@@ -2,5 +2,5 @@
 
 function grow(x){
   reducer = (accumlator, currentValue) => accumlator * currentValue;
-  return x.reduce(reducer);
+  return x.reduce(reducer); 
 }
