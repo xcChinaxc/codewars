@@ -1,7 +1,13 @@
 /* Squash the bugs  */
 
-function warnTheSheep(queue) {
-    let wolfLocation = queue.length - queue.findIndex(wolf => wolf === "wolf");
-    if( wolfLocation === 1 ) { return "Pls go away and stop eating my sheep"}
-    else {return `Oi! Sheep number ${wolfLocation-1}! You are about to be eaten by a wolf!`}
-  }
+function findLongest(str) {
+  
+  var spl = str.split(" ");
+  var longest = 0;
+  
+  for (var i = 0; i < spl.length; i++) {
+    if (spl[i].length > longest) {
+      longest = spl[i].length
+    }}
+    return longest;
+}
