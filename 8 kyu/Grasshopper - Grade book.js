@@ -1,4 +1,5 @@
 /* Grasshopper - Grade book */
+
 function getGrade (s1, s2, s3) {
   let mean = (s1+s2+s3)/3
   if(mean >= 90){ return "A"  }
@@ -7,5 +8,3 @@ function getGrade (s1, s2, s3) {
   else if(mean >= 60){ return "D"  }
   else{ return "F"  }
 }
-
-    last month
