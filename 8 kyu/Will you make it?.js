@@ -8,5 +8,5 @@
 // P - 
 
 const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
-  return mpg * fuelLeft >= distanceToPump
+    return mpg * fuelLeft >= distanceToPump
 };
