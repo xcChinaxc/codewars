@@ -8,5 +8,5 @@
 // P - make strings numbers, add numbers, make string again
 
 function sumStr(a,b) {
-    return String(Number(a) + Number(b))
-  }
+  return String(Number(a) + Number(b))
+}
