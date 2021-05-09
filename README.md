@@ -1,5 +1,5 @@
 # CodeWars Challenges
-**Purpose** This repo is filled with my codewar challenges/kata submissions. I solve at least one codewars challenge every day.
+**Purpose** This repo is filled with my codewar challenges/kata submissions. I attempt to solve at least 5 katas a week.
 
 **Link to Profile:** https://www.codewars.com/users/xcChinaxc
 
