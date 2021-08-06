@@ -1,10 +1,10 @@
 # CodeWars Challenges
-**Purpose** This repo is filled with my codewar challenges/kata submissions. I attempt to solve at least 5 katas a week.
+**Purpose** This repo is filled with my solved codewar katas. I strive to solve at least 5 katas a week.
 
 **Link to Profile:** https://www.codewars.com/users/xcChinaxc
 
-## How It's Made
-**Tech Used:** JavaScript <br />
-**Lessons Learned:** It's ok to take a break from a kata and come back to it later. There are plenty of other katas to solve and by solving those katas, I'll learn something new.
+## Check It Out
+**Languages Used:** JavaScript <br />
+**Lessons Learned:** It's ok to take a break from a kata and come back to it later because there are plenty of other katas to solve.
 
 ![](https://www.codewars.com/users/xcChinaxc/badges/large)
